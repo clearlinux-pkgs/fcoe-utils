@@ -4,7 +4,7 @@
 #
 Name     : fcoe-utils
 Version  : 1.0.32
-Release  : 2
+Release  : 3
 URL      : https://github.com/morbidrsa/fcoe-utils/archive/v1.0.32.tar.gz
 Source0  : https://github.com/morbidrsa/fcoe-utils/archive/v1.0.32.tar.gz
 Summary  : No detailed summary available
